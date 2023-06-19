@@ -1,0 +1,18 @@
+{
+    "id": "dumpling.pride",
+    "name": "a PRIDE SHIRT for your PROUD SLUG",
+    "version": "1.0.0",
+    "hide_version": false,
+    "authors": "Hubert aka Dumpling",
+    "description": "Be gay do crimes",
+    "requirements": [
+        "dressmyslugcat"
+    ],
+    "requirements_names": [
+        "Dress My Slugcat"
+    ],
+    "checksum_override_version": false,
+    "tags": [
+        "Cosmetics"
+    ]
+}

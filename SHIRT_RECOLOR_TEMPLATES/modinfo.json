@@ -1,0 +1,18 @@
+{
+    "id": "YOURNAME.NAME",
+    "name": "REMIX MENU NAME",
+    "version": "1.0.0",
+    "hide_version": false,
+    "authors": "Dumpling",
+    "description": "DMS PRIDE SHIRT Template",
+    "requirements": [
+        "dressmyslugcat"
+    ],
+    "requirements_names": [
+        "Dress My Slugcat"
+    ],
+    "checksum_override_version": false,
+    "tags": [
+        "Cosmetics"
+    ]
+}

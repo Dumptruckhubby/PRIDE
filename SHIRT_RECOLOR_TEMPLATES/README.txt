@@ -1,0 +1,18 @@
+if you dont know how to edit the json files, you need a program to edit the json files, the notepad should work just fine and its problably already on ur pc. im just gonna tell you how to edit every file on there cuz thats easier for me tbh. also you can just refference the dms sprite guide wich you can find on steam wich MIGHT be easier to follow.
+the first thing you need to edit is the modinfo file, you can edit the ID [YOURNAME.SKINNAME] to have your name + the skin set name, example; 
+pancake.sillyskin, jelly.fishyeyes, keep it simple, you might have to use it again. next is NAME wich is just a display name in the remix menu for your mod, the name can be anything. in AUTHORS you can just put your name, and the description is just again remix menu description for your mod. YOU DONT HAVE TO CHANGE ANYTHING ELSE IN modinfo JSON FILE, in fact you really only need to change the id, so that its not the same id as another mod you may have, i think if it would be the same name as smt else that could cause issues such as mod not showing up, and also you possibly might have to change the author. NEXT you want to go to PurrideShirtTemplate and youll find metadata JSON, you need to replace the ID to the one in modinfo, ((or something unique thats not just template, if theres another sprite folder and it has the same id it might not show up in the fancy menu)) if you are going to make multiple recolors of the sprite, at the end of the id just put 1, for the next skin put the same id but now with 2 at the end. the name in metadata will be shown in the dms menu for the name of your skin, so you can just put whatever you want, just something readable and short. author is the same as for modinfo, just your name.
+
+if you did everything right but your skin doesnt show up in the get fancy menu of DMS, simply click "reload atlases" button on the bottom right corner of the fancy menu, and make sure your mod is enabled, if that doesnt work check your json files, go to dms discord server for help (link invite is at the bottom of this txt file)
+btw this is basically my fist experience with spriting but i still wanted to include this explanation just for the people who have basically zero clue to what to do. obviously this is not THE ideal guide, but i hope its clear enough for people to get the idea of what to do.
+________________________________________________________
+
+if you dont want to constantly enable your mod or if you have a lot of dms mods that clog up your remix menu you can simply go to your mods folder and locate the dms mod, put the cosmetic dms mods in the dressmyslugcat folder, the path is rainworld>RainWorl_Data>StreamingAssets>mods>Dress_My_Slugcat_Beta>dressmyslugcat again just drop all of your dms mod folders there, you dont need to edit any of them, they will be enabled when you enable the dms mod, and wont show up in the remix menu.
+________________________________________________________
+
+hope this txt file was useful, i tried to be very detailed on stuff on purpose, if you have any questions about other stuff such as how the sprites work ingame go to dms guide on steam, it talks about quite a bunch of stuff you should know about before starting working on a sprite, also, join the DMS discord server!
+  LINK  ---->>>> { https://discord.gg/T8e6PyyU27 } <<<<----  LINK
+
+but this is a shirt template so just edit the colors to whatever you want lol
+
+(if you dont know what drawing program to use for this, Pixel studio works just fine, it is free on steam.)
+(thanks to Vigaro for the DMS mod and a very handy DMS template!!)
